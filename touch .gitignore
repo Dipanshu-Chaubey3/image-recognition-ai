@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# AI/ML Large files
+data/
+*.pth
+*.h5
+*.weights
+
+# Web
+node_modules/
+.DS_Store
